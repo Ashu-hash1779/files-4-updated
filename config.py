@@ -13,7 +13,7 @@ APP_ID = int(os.environ.get("APP_ID", "29640594"))
 API_HASH = os.environ.get("API_HASH", "425945b03d2da856ab43e3f20e5570b7")
 
 #Your db channel Id
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", ""))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002445977686"))
 
 #OWNER ID
 OWNER_ID = int(os.environ.get("OWNER_ID", "6710996831"))
@@ -25,7 +25,7 @@ PORT = os.environ.get("PORT", "8000")
 # Database [https://youtu.be/qFB0cFqiyOM?si=fVicsCcRSmpuja1A]
 # DB_URI = "mongodb+srv://wicidev806:b9zm6GzbC7Y5lHWR@cluster0.qsx9a.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 #Database 
-DB_URI = "mongodb+srv://cluster0:qwertyuiop@cluster0.s7zfm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+DB_URI = "mongodb+srv://jebed93486:K31WWi0KlGkLv7Zi@cluster0.1bgj5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 #Database [https://youtu.be/qFB0cFqiyOM?si=fVicsCcRSmpuja1A]
 DB_NAME = os.environ.get("DATABASE_NAME", "Cluster0")
 
